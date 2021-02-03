@@ -1,0 +1,6 @@
+module Pods_stockprice {
+  umbrella header "Pods-stockprice-umbrella.h"
+
+  export *
+  module * { export * }
+}
