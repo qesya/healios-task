@@ -1,1 +1,0 @@
-../../../Target Support Files/RNCharts/RNCharts-umbrella.h
